@@ -1,1 +1,1 @@
-npm create-next-app nextjs-issue-tracker
+npx create-next-app nextjs-issue-tracker
